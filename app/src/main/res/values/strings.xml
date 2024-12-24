@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MyBooks</string>
+    <string name="delivery_method">Способ получения</string>
+    <string name="courier">Курьер</string>
+    <string name="self">Самовывоз</string>
+    <string name="choose_adress">Выбери адрес доставки</string>
+    <string name="add_adress">Добавить адрес</string>
+    <string name="next">Продолжить</string>
+    <string name="deliver_here">Привезите по этому адресу</string>
+    <string name="pay_method">Способ оплаты</string>
+    <string name="card_online">Картой онлайн</string>
+    <string name="offline">При получении</string>
+    <string name="link_SFP">Привязать СБП</string>
+    <string name="make_order">Оформить заказ</string>
+    <string name="one_product">1 товар</string>
+    <string name="price">400 рублей</string>
+    <string name="sale">Скидка</string>
+    <string name="decrease_cost">-200 рублей</string>
+    <string name="delivery">Доставка</string>
+    <string name="delivery_cost">0 ₽</string>
+    <string name="summary">Итого</string>
+    <string name="finish_price">200 рублей</string>
+
+
+
+
+
+
+</resources>
